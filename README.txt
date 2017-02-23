@@ -18,3 +18,5 @@ x@y.com		2		3
 
 Pass names of the CSV files to be merged as command line arguments. The last argument should be the name 
 of the output CSV file to be created.
+
+Files csv1.csv and csv2.csv can be used for testing.
